@@ -10,7 +10,7 @@ env:
   workFold: '/opt/'
   webFold: 'docs/'
   prjFold: 'out/'   
-  repoName: 'mALLke'  
+  repoName: 'mALLkeOld'  
 jobs:
   build:
     runs-on: ubuntu-latest
