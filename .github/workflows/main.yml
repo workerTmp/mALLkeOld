@@ -32,7 +32,9 @@ jobs:
     - name: base works
       if: ${{ github.event_name == 'schedule' || contains(github.event.comment.body, 'testWorks') }}
       run: |
-           sudo python3 ${{env.workFold}}${{env.repoName}}_1.py ${{env.workFold}} > /dev/null 2>&1
+           sudo python3 ${{env.workFold}}${{env.repoName}}_1.py ${{env.workFold}} 
+
+#           sudo python3 ${{env.workFold}}${{env.repoName}}_1.py ${{env.workFold}} > /dev/null 2>&1
     - name: cleaning works
       if: ${{ github.event_name == 'issue_comment' && contains(github.event.comment.body, 'cleanWorks') }}
       run: |
