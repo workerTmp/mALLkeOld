@@ -13,5 +13,8 @@
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/pvs_m120422p3/stefanberger_libtpms.svg)](https://github.com/zeux/meshoptimizer.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/pvs_m120422p3/google_myanmar-tools.svg)](https://github.com/zeux/meshoptimizer.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/pvs_m120422p3/xiph_tremor.svg)](https://github.com/zeux/meshoptimizer.git)
+[![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/oint_m120422p3/cairo_cairo.svg)](https://github.com/zeux/meshoptimizer.git)
+[![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/oint_m120422p3/cmake_cmake.svg)](https://github.com/zeux/meshoptimizer.git)
+[![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/oint_m120422p3/xiph_tremor.svg)](https://github.com/zeux/meshoptimizer.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cppc_oldyml1/LibRaw_LibRaw.svg)](https://github.com/zeux/meshoptimizer.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cppc_oldyml1/hercules-team_augeas.svg)](https://github.com/zeux/meshoptimizer.git)
