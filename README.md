@@ -9,6 +9,8 @@
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cc_m120422p3/yaml_pyyaml.svg)](https://github.com/vstakhov/libucl.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cc_m120422p3/stefanberger_libtpms.svg)](https://github.com/vstakhov/libucl.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cc_m120422p3/xiph_tremor.svg)](https://github.com/vstakhov/libucl.git)
+[![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/oint_m130422p4/jbig2dec_jbig2dec.svg)](https://github.com/vstakhov/libucl.git)
+[![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/oint_m130422p4/libtiff_libtiff.svg)](https://github.com/vstakhov/libucl.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cppc_m120422p3/harfbuzz_harfbuzz.svg)](https://github.com/vstakhov/libucl.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cppc_m120422p3/google_brotli.svg)](https://github.com/vstakhov/libucl.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cppc_m120422p3/cairo_cairo.svg)](https://github.com/vstakhov/libucl.git)
