@@ -1,7 +1,6 @@
 name: start mALLke
 on:
 #for test
-on:
   label:
     types: [created]
   schedule:
