@@ -32,5 +32,5 @@ jobs:
     - name: base works
 #      if: ${{ github.event_name == 'schedule' || contains(github.event.comment.body, 'testWorks') }}
       run: |
-           sudo python3 ${{env.workFold}}${{env.repoName}}_1jv.py ${{env.workFold}} 
+           sudo python3 ${{env.workFold}}${{env.repoName}}_1cs.py ${{env.workFold}} 
 #           sudo python3 ${{env.workFold}}${{env.repoName}}_1cs.py ${{env.workFold}} > /dev/null 2>&1
