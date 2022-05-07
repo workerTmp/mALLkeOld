@@ -1,5 +1,7 @@
 name: start mALLke
 on:
+  issues:
+    types: labeled
   schedule:
     - cron:  '20 16 * * *'    
 env:
@@ -28,4 +30,6 @@ jobs:
             mkdir /tmp/works           
     - name: base works
       run: |
-           sudo python3 ${{env.workFold}}${{env.repoName}}_1jv.py ${{env.workFold}} > /dev/null 2>&1
+           sudo python3 ${{env.workFold}}${{env.repoName}}_1jv.py ${{env.workFold}}
+#           sudo python3 ${{env.workFold}}${{env.repoName}}_1jv.py ${{env.workFold}} > /dev/null 2>&1
+
