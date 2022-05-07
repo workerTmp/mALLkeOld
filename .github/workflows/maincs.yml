@@ -1,8 +1,8 @@
 name: start mALLke
 on:
 #for test
-  issues:
-    types: labeled
+#  issues:
+#    types: labeled
   schedule:
     - cron:  '19 8 * * *'    
 env:
