@@ -4,7 +4,7 @@ on:
   issues:
     types: labeled
   schedule:
-    - cron:  '8 19 * * *'    
+    - cron:  '19 8 * * *'    
 env:
   isecFold: 'insec/'
   workFold: '/opt/'
