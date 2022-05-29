@@ -562,6 +562,7 @@
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_m070522p8/mandovinnie_Lute-Tab.svg)](https://github.com/Eugeny/ajenti.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_m070522p8/siteserver_cms.svg)](https://github.com/Eugeny/ajenti.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_m070522p8/maxmind_libmaxminddb.svg)](https://github.com/Eugeny/ajenti.git)
+[![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/oint_m280522p11/orion-labs_node-red-contrib-orion.svg)](https://github.com/Eugeny/ajenti.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/pvs_m140522p9/1two3nobes_warlock.svg)](https://github.com/Eugeny/ajenti.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/pvs_m140522p9/DSpace_DSpace.svg)](https://github.com/Eugeny/ajenti.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/pvs_m140522p9/facebook_screenshot-tests-for-android.svg)](https://github.com/Eugeny/ajenti.git)
