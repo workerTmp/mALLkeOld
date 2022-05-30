@@ -1190,6 +1190,7 @@
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/oint_m200522p10/matio_matio.svg)](https://github.com/Eugeny/ajenti.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/oint_m200522p10/tpm2_tpm2.svg)](https://github.com/Eugeny/ajenti.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/oint_m200522p10/nghttp2_nghttp2.svg)](https://github.com/Eugeny/ajenti.git)
+[![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cc_m280522p11/orion-labs_node-red-contrib-orion.svg)](https://github.com/Eugeny/ajenti.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_m140522p9/DSpace_DSpace.svg)](https://github.com/Eugeny/ajenti.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_m140522p9/Alfresco_alfresco-android-app.svg)](https://github.com/Eugeny/ajenti.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_m140522p9/securesystemslab_periscope.svg)](https://github.com/Eugeny/ajenti.git)
