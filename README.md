@@ -1,0 +1,6 @@
+[![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/pvs_m010722p16/Jolmberg_wmix.svg)](https://github.com/JustUser1410/THE-GAME.git)
+[![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/pvs_m010722p16/Julow_scop.svg)](https://github.com/JustUser1410/THE-GAME.git)
+[![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/pvs_m010722p16/Ademan_psycopg2.svg)](https://github.com/JustUser1410/THE-GAME.git)
+[![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/pvs_m010722p16/JAChapmanII_seratosthenes.svg)](https://github.com/JustUser1410/THE-GAME.git)
+[![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/pvs_m010722p16/300M_pintos.svg)](https://github.com/JustUser1410/THE-GAME.git)
+[![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/pvs_m010722p16/BernardTatin_solhexd.svg)](https://github.com/JustUser1410/THE-GAME.git)
