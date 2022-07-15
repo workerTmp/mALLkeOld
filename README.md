@@ -1,3 +1,4 @@
+[![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cc_m080722p17/andrewrgbm_ComparingPintOS.svg)](https://github.com/connor-occhialini/fin2.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/oint_m080722p17/andrewrgbm_ComparingPintOS.svg)](https://github.com/connor-occhialini/fin2.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_m080722p17/yuliashi_Spring2022_Framework.svg)](https://github.com/connor-occhialini/fin2.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_m080722p17/yuigahamakamakura_natsumegu.svg)](https://github.com/connor-occhialini/fin2.git)
