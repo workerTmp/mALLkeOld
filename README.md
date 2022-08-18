@@ -365,6 +365,7 @@
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_m120822p4/gocd_gocd.svg)](https://github.com/nodejs/node.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_m120822p4/scriban_scriban.svg)](https://github.com/nodejs/node.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_m120822p4/GcsSloop_diycode.svg)](https://github.com/nodejs/node.git)
+[![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/oint_Fix/nodejs_node.svg)](https://github.com/nodejs/node.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_Fix/ruby_bigdecimal.svg)](https://github.com/nodejs/node.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_Fix/ruby_win32ole.svg)](https://github.com/nodejs/node.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_Fix/ruby_zlib.svg)](https://github.com/nodejs/node.git)
