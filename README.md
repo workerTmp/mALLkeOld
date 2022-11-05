@@ -2235,6 +2235,7 @@
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_newDesc230722p1/BluestormDNA_ProjectPSX.svg)](https://github.com/Angel-ML/angel.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_newDesc230722p1/AmarMicroDev_Mcommerce-partie1.svg)](https://github.com/Angel-ML/angel.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_newDesc230722p1/Azure_awesome-terraform.svg)](https://github.com/Angel-ML/angel.git)
+[![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_newDesc230722p1/1024-lab_smart-admin.svg)](https://github.com/Angel-ML/angel.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_newDesc230722p1/AltBeacon_android-beacon-library.svg)](https://github.com/Angel-ML/angel.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_newDesc230722p1/aspnetboilerplate_aspnetboilerplate.svg)](https://github.com/Angel-ML/angel.git)
 [![Building Status Local in workerTmp_mALLkeOld](https://workerTmp.github.io/mALLkeOld/StAn/cq_newDesc230722p1/bing-framework_Bing.NetCore.svg)](https://github.com/Angel-ML/angel.git)
